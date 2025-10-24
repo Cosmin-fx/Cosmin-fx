@@ -1,29 +1,13 @@
-# Hi there, I'm [Cosmin]! 👋
-
-![Banner Image](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmxraDN6eDQ3MjM5MW55Y2szam9iajNpM3pycGthN3o5aDBzcWVqNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif)
-
-
 ### Hi there 👋 
 ### This is cosmin!
 
 [![Github](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmxraDN6eDQ3MjM5MW55Y2szam9iajNpM3pycGthN3o5aDBzcWVqNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif)](https://github.com/Cosmin-fx)
 
 
-Welcome to my Github page! I am Fernando and I am currently finishing my Computer Engineering Master degree at the university of Granada!  
+Welcome to my Github page! I am Cosmin
 
-<img align="right" alt="img" src="[https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmxraDN6eDQ3MjM5MW55Y2szam9iajNpM3pycGthN3o5aDBzcWVqNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif)" width="50%" height="auto" />
+<img align="right" alt="img" src="[](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmxraDN6eDQ3MjM5MW55Y2szam9iajNpM3pycGthN3o5aDBzcWVqNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif)" width="50%" height="auto" />
 
-
-#### 🌱 Things I am currently working on: 
-- Finish my Computer Engineering Master Degree  
-- Taking online courses about Data Science and Machine Learning 
-- Business practices on 
-
-#### :muscle: Things I am challenging myself with:
-- Waking up earlier to make good use of the day
-- Coding at least 4 hours a day
-- Exercising 3 days a week
-- Improving my CV with some education apart from university
 
 #### :computer: Programming languages and tools: 
 <p>
